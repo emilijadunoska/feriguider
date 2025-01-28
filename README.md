@@ -1,21 +1,22 @@
 # Praktikum-2
 ## FERI UM Guider
 
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/f1YW6P3/logo.png" alt="logo" border="0" align="left"
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/f1YW6P3/logo.png" alt="logo" border="0" align="center"
 width="200" hspace="10" vspace="10"/></a>
 
-FERI UM guider is a standalone mobile application, free of charge and easy-to-use.  
-
-FERI UM is available to download as an .apk file for Android. 
-
+A free, standalone mobile application for navigating the Faculty of Electrical Engineering and Computer Science at the University of Maribor (FERI UM), available to download as an .apk file for Android. 
 
 ## About
 
-FERI UM Guider has been made for you to comfortably navigate and get to your chosen destination as a student/employer/visitor on FERI. Our idea was to build a simple and effective solution to the problem that most students and staff face when wanting to go to a certain lecture hall or cabinet. 
-You can download FERI UM Guider as an .apk file and follow the instructions to install it in your mobile device. 
-Internet connection is needed to run the application. 
-This application was originally created by Tanja Grozdani, Filip Djajkov and Emilija Dunoska with the idea of a school practical project. 
+FERI UM Guider has been made for you to comfortably navigate and get to your chosen destination as a student/employer/visitor on FERI. Our idea was to build a simple and effective solution to the problem that most students and staff face when wanting to go to a certain lecture hall or cabinet. You can download FERI UM Guider as an .apk file and follow the instructions to install it in your mobile device. Internet connection is needed to run the application. 
+This application was a part of a school practical project. 
+
+## Authors
+- Tanja Grozdani
+- Filip Djajkov
+- Emilija Dunoska
+
+Faculty of Electrical Engineering and Computer Science, University of Maribor
 
 ## Features
 
